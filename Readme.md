@@ -1,7 +1,7 @@
-# Личный проект «Пинк» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
+﻿# Личный проект «Пинк» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Ole Nk](https://up.htmlacademy.ru/adaptive/19/user/94673).
-* Наставник: `Неизвестно`.
+* Наставник: `Без наставника`.
 
 ---
 
